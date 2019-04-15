@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /Users/sumitc/sumit/react-native-mapboxgl/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
